@@ -1,5 +1,6 @@
 # epilepsy_project
 This project focuses on developing advanced AI/ML algorithms for accurate and efficient detection of epilepsy signals, enabling early diagnosis &amp; personalized treatment.
+#importing all lib & models
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
